@@ -2,13 +2,13 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "Microsoft.AspNetCore.SpaProxy/7.0.18": {
+      "Microsoft.AspNetCore.SpaProxy/8.0.4": {
         "type": "package",
         "compile": {
-          "lib/net7.0/Microsoft.AspNetCore.SpaProxy.dll": {}
+          "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll": {}
         },
         "runtime": {
-          "lib/net7.0/Microsoft.AspNetCore.SpaProxy.dll": {}
+          "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -114,18 +114,18 @@
     }
   },
   "libraries": {
-    "Microsoft.AspNetCore.SpaProxy/7.0.18": {
-      "sha512": "KJSvVXiLqbeK1Skmd4yINskg2X90QA7AKtKvjUdFhM2kggNNmZPKvM00yyHLRMe6EO1cjHrqjKTuoFDnc4aE2A==",
+    "Microsoft.AspNetCore.SpaProxy/8.0.4": {
+      "sha512": "knuNBv+I6bYjaUHb6KoFEU7CjkKgzwHQWmdcMgUZ8DuLzQQxSS8dd/OacVccaKtTEz5PDFDeIKU8Gg+Pgu+Xvw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.spaproxy/7.0.18",
+      "path": "microsoft.aspnetcore.spaproxy/8.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "THIRD-PARTY-NOTICES.TXT",
         "build/Microsoft.AspNetCore.SpaProxy.targets",
-        "lib/net7.0/Microsoft.AspNetCore.SpaProxy.dll",
-        "microsoft.aspnetcore.spaproxy.7.0.18.nupkg.sha512",
+        "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll",
+        "microsoft.aspnetcore.spaproxy.8.0.4.nupkg.sha512",
         "microsoft.aspnetcore.spaproxy.nuspec"
       ]
     },
@@ -599,7 +599,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Microsoft.AspNetCore.SpaProxy >= 7.0.18",
+      "Microsoft.AspNetCore.SpaProxy >= 8.*-*",
       "Microsoft.TypeScript.MSBuild >= 5.4.4",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -650,7 +650,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.SpaProxy": {
             "target": "Package",
-            "version": "[7.0.18, )"
+            "version": "[8.*-*, )"
           },
           "Microsoft.TypeScript.MSBuild": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

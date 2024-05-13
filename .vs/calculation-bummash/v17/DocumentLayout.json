@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\projects\\calculation-bummash\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7FA77CA-9321-4CEF-8BD4-0FCE83FC4B26}|calculation-bummash.Server\\calculation-bummash.Server.csproj|c:\\users\\user\\projects\\calculation-bummash\\calculation-bummash.server\\calculation-bummash.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A7FA77CA-9321-4CEF-8BD4-0FCE83FC4B26}|calculation-bummash.Server\\calculation-bummash.Server.csproj|solutionrelative:calculation-bummash.server\\calculation-bummash.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{197DBA0F-F50E-469F-B434-8916A88D9F69}|calculation-bummash.client\\calculation-bummash.client.esproj|c:\\users\\user\\projects\\calculation-bummash\\calculation-bummash.client\\src\\main.jsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{197DBA0F-F50E-469F-B434-8916A88D9F69}|calculation-bummash.client\\calculation-bummash.client.esproj|solutionrelative:calculation-bummash.client\\src\\main.jsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197DBA0F-F50E-469F-B434-8916A88D9F69}|calculation-bummash.client\\calculation-bummash.client.esproj|c:\\users\\user\\projects\\calculation-bummash\\calculation-bummash.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{197DBA0F-F50E-469F-B434-8916A88D9F69}|calculation-bummash.client\\calculation-bummash.client.esproj|solutionrelative:calculation-bummash.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197DBA0F-F50E-469F-B434-8916A88D9F69}|calculation-bummash.client\\calculation-bummash.client.esproj|c:\\users\\user\\projects\\calculation-bummash\\calculation-bummash.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{197DBA0F-F50E-469F-B434-8916A88D9F69}|calculation-bummash.client\\calculation-bummash.client.esproj|solutionrelative:calculation-bummash.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "calculation-bummash.Server",
-              "DocumentMoniker": "C:\\Users\\User\\projects\\calculation-bummash\\calculation-bummash.Server\\calculation-bummash.Server.csproj",
-              "RelativeDocumentMoniker": "calculation-bummash.Server\\calculation-bummash.Server.csproj",
-              "ToolTip": "C:\\Users\\User\\projects\\calculation-bummash\\calculation-bummash.Server\\calculation-bummash.Server.csproj",
-              "RelativeToolTip": "calculation-bummash.Server\\calculation-bummash.Server.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-13T20:01:15.463Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -44,6 +39,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\calculation-bummash\\calculation-bummash.client\\vite.config.js",
+              "RelativeDocumentMoniker": "calculation-bummash.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\User\\projects\\calculation-bummash\\calculation-bummash.client\\vite.config.js",
+              "RelativeToolTip": "calculation-bummash.client\\vite.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-10T22:18:37.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\calculation-bummash\\calculation-bummash.client\\tsconfig.json",
+              "RelativeDocumentMoniker": "calculation-bummash.client\\tsconfig.json",
+              "ToolTip": "C:\\Users\\User\\projects\\calculation-bummash\\calculation-bummash.client\\tsconfig.json",
+              "RelativeToolTip": "calculation-bummash.client\\tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T22:20:51.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\User\\projects\\calculation-bummash\\calculation-bummash.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "calculation-bummash.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\User\\projects\\calculation-bummash\\calculation-bummash.client\\src\\main.jsx",
+              "RelativeToolTip": "calculation-bummash.client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-10T22:16:55.313Z",
+              "EditorCaption": ""
             }
           ]
         }

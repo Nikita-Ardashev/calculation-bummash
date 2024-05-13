@@ -1,8 +1,0 @@
-{
-"SpaProxyServer": {
-"ServerUrl": "https://localhost:5174",
-"LaunchCommand": "npm run dev",
-"WorkingDirectory": "c:\\Users\\User\\projects\\calculation-bummash\\calculation-bummash.Server\\..\\calculation-bummash.client",
-"MaxTimeoutInSeconds": "120"
-}
-}

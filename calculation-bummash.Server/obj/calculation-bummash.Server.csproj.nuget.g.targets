@@ -3,6 +3,6 @@
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)microsoft.extensions.apidescription.server\6.0.5\build\Microsoft.Extensions.ApiDescription.Server.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.apidescription.server\6.0.5\build\Microsoft.Extensions.ApiDescription.Server.targets')" />
     <Import Project="$(NuGetPackageRoot)microsoft.typescript.msbuild\5.4.4\build\Microsoft.TypeScript.MSBuild.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.typescript.msbuild\5.4.4\build\Microsoft.TypeScript.MSBuild.targets')" />
-    <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.spaproxy\7.0.18\build\Microsoft.AspNetCore.SpaProxy.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.spaproxy\7.0.18\build\Microsoft.AspNetCore.SpaProxy.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.spaproxy\8.0.4\build\Microsoft.AspNetCore.SpaProxy.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.spaproxy\8.0.4\build\Microsoft.AspNetCore.SpaProxy.targets')" />
   </ImportGroup>
 </Project>

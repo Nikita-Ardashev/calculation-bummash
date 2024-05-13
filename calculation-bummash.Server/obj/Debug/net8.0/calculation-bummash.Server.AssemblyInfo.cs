@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calculation-bummash.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d48cb0ad66287f900aff2efa40241812618238c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75c928da0ad2018ca8594904c53eb9b4d398c6ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("calculation-bummash.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calculation-bummash.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

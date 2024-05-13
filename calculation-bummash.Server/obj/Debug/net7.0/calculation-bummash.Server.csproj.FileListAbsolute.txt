@@ -1,9 +1,0 @@
-C:\Users\User\projects\calculation-bummash\calculation-bummash.Server\obj\Debug\net7.0\calculation-bummash.Server.csproj.AssemblyReference.cache
-C:\Users\User\projects\calculation-bummash\calculation-bummash.Server\obj\Debug\net7.0\spa.proxy.json
-C:\Users\User\projects\calculation-bummash\calculation-bummash.Server\obj\Debug\net7.0\calculation-bummash.Server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\projects\calculation-bummash\calculation-bummash.Server\obj\Debug\net7.0\calculation-bummash.Server.AssemblyInfoInputs.cache
-C:\Users\User\projects\calculation-bummash\calculation-bummash.Server\obj\Debug\net7.0\calculation-bummash.Server.AssemblyInfo.cs
-C:\Users\User\projects\calculation-bummash\calculation-bummash.Server\obj\Debug\net7.0\calculation-bummash.Server.csproj.CoreCompileInputs.cache
-C:\Users\User\projects\calculation-bummash\calculation-bummash.Server\obj\Debug\net7.0\calculation-bummash.Server.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\User\projects\calculation-bummash\calculation-bummash.Server\obj\Debug\net7.0\calculation-bummash.Server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\User\projects\calculation-bummash\calculation-bummash.Server\obj\Debug\net7.0\calculation-bummash.Server.sourcelink.json
