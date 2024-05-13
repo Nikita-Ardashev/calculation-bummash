@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculation-bummash.Server", "calculation-bummash.Server\calculation-bummash.Server.csproj", "{A7FA77CA-9321-4CEF-8BD4-0FCE83FC4B26}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "calculation-bummash.client", "calculation-bummash.client\calculation-bummash.client.esproj", "{197DBA0F-F50E-469F-B434-8916A88D9F69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7FA77CA-9321-4CEF-8BD4-0FCE83FC4B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FA77CA-9321-4CEF-8BD4-0FCE83FC4B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FA77CA-9321-4CEF-8BD4-0FCE83FC4B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FA77CA-9321-4CEF-8BD4-0FCE83FC4B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{197DBA0F-F50E-469F-B434-8916A88D9F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197DBA0F-F50E-469F-B434-8916A88D9F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197DBA0F-F50E-469F-B434-8916A88D9F69}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{197DBA0F-F50E-469F-B434-8916A88D9F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197DBA0F-F50E-469F-B434-8916A88D9F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{197DBA0F-F50E-469F-B434-8916A88D9F69}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2693D533-766B-44F2-8752-CC576D195B25}
+	EndGlobalSection
+EndGlobal

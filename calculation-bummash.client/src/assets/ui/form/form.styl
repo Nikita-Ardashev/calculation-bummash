@@ -1,0 +1,60 @@
+@import '../../../consts.styl';
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 32px;
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    padding: 32px;
+    height: -webkit-fill-available;
+
+    .form__fields {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 12px;
+
+        > p {
+            fontR(16px);
+            color: red;
+        }
+    }
+
+    > button {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 12px;
+        background: transparent;
+        border: 2px solid black;
+        border-radius: 8px;
+        padding: 8px 10px;
+        cursor: pointer;
+        animtime();
+
+        &:hover {
+            background: rgba(0, 0, 0, 0.2);
+        }
+
+        &:focus {
+            background: rgba(0, 0, 0, 0.1);
+        }
+
+        &:active {
+            background: rgba(0, 0, 0, 0.3);
+        }
+
+        p {
+            fontR(20px);
+            color: black;
+        }
+
+        img {
+            width: 24px;
+            height: 24px;
+        }
+    }
+}
