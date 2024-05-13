@@ -33,3 +33,4 @@ C:\Users\User\projects\calculation-bummash\calculation-bummash.Server\obj\Debug\
 C:\Users\User\projects\calculation-bummash\calculation-bummash.Server\obj\Debug\net8.0\calculation-bummash.Server.pdb
 C:\Users\User\projects\calculation-bummash\calculation-bummash.Server\obj\Debug\net8.0\calculation-bummash.Server.genruntimeconfig.cache
 C:\Users\User\projects\calculation-bummash\calculation-bummash.Server\obj\Debug\net8.0\ref\calculation-bummash.Server.dll
+c:\Users\User\projects\calculation-bummash\calculation-bummash.Server\obj\Debug\net8.0\calculation-bummash.Server.sourcelink.json
